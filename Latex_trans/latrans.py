@@ -67,5 +67,5 @@ def convert_latex_to_word_math(file_path):
 
 
 if __name__ == "__main__":
-  target_docx = r"C:\Users\19853\Desktop\latextest.docx"
+  target_docx = r" YOUR PATH"
   convert_latex_to_word_math(target_docx)
